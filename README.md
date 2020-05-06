@@ -2,6 +2,13 @@
 
 ## 1. install version 1.xx.x of minecraft
 ## 2. install optifine 1.xx.x of optifine
+  paste file in or copy to dir below
+    C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin
+  open cmd
+    cd C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin
+  then run 
+    java.exe -jar optifine.jar
+  
 ## 3. install shaderpack in %appdata%/.minecraft
 ## 4. install vanilla pbr resouirce pack.
 
