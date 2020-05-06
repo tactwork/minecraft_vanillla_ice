@@ -1,8 +1,8 @@
 # minecraft_vanillla_ice
-##PLEASE READ THE FOLLOWING REQUIREMENTS FOR USING THIS SHADER PACK!
+## PLEASE READ THE FOLLOWING REQUIREMENTS FOR USING THIS SHADER PACK!
 
 
-###Minecraft 1.14.4 (older version compatibility is work in progress)
+### inecraft 1.14.4 (older version compatibility is work in progress)
 OptiFine HD U F3 or newer
 Options > Video Settings > Details > Alternate Blocks: OFF
 Options > Video Settings > Details > Trees: Fancy or Fast (Smart may break lighting)
