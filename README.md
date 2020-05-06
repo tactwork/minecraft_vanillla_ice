@@ -3,13 +3,13 @@
 
 
 ###Minecraft 1.14.4 (older version compatibility is work in progress)
-###OptiFine HD U F3 or newer
-###Options > Video Settings > Details > Alternate Blocks: OFF
-###Options > Video Settings > Details > Trees: Fancy or Fast (Smart may break lighting)
-###Options > Video Settings > Quality > Natural Textures: OFF
-###Options > Video Settings > Shaders > Shadow Quality: 1x
-###Options > Video Settings > Shaders > Old Lighting : DEFAULT
-###Resource packs with custom block models will probably cause  lighting glitches!!!!!!
+OptiFine HD U F3 or newer
+Options > Video Settings > Details > Alternate Blocks: OFF
+Options > Video Settings > Details > Trees: Fancy or Fast (Smart may break lighting)
+Options > Video Settings > Quality > Natural Textures: OFF
+Options > Video Settings > Shaders > Shadow Quality: 1x
+Options > Video Settings > Shaders > Old Lighting : DEFAULT
+Resource packs with custom block models will probably cause  lighting glitches!!!!!!
 
 ##Some of the currently known issues are as follows:
 
