@@ -1,9 +1,12 @@
 # minecraft_vanillla_ice
 ## PLEASE READ THE FOLLOWING REQUIREMENTS FOR USING THIS SHADER PACK!
 
+++ install version 1.xx.x of minecraft.
+++ install optifine 1.xx.x of optifine
+++ install shaderpack in %appdata%/.minecraft
 
-### inecraft 1.14.4 (older version compatibility is work in progress)
-OptiFine HD U F3 or newer
+### minecraft 1.14.4 (older version compatibility is work in progress)
+### OptiFine HD U F3 or newer
 Options > Video Settings > Details > Alternate Blocks: OFF
 Options > Video Settings > Details > Trees: Fancy or Fast (Smart may break lighting)
 Options > Video Settings > Quality > Natural Textures: OFF
