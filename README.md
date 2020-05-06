@@ -1,9 +1,9 @@
 # minecraft_vanillla_ice
 ## PLEASE READ THE FOLLOWING REQUIREMENTS FOR USING THIS SHADER PACK!
 
-++ install version 1.xx.x of minecraft.
-++ install optifine 1.xx.x of optifine
-++ install shaderpack in %appdata%/.minecraft
+## install version 1.xx.x of minecraft
+## install optifine 1.xx.x of optifine
+## install shaderpack in %appdata%/.minecraft
 
 ### minecraft 1.14.4 (older version compatibility is work in progress)
 ### OptiFine HD U F3 or newer
